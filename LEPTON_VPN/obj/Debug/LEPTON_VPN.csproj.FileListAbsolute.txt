@@ -1,0 +1,9 @@
+C:\Users\kac44\source\repos\LEPTON_VPN\LEPTON_VPN\bin\Debug\LEPTON_VPN.exe.config
+C:\Users\kac44\source\repos\LEPTON_VPN\LEPTON_VPN\bin\Debug\LEPTON_VPN.exe
+C:\Users\kac44\source\repos\LEPTON_VPN\LEPTON_VPN\bin\Debug\LEPTON_VPN.pdb
+C:\Users\kac44\source\repos\LEPTON_VPN\LEPTON_VPN\obj\Debug\LEPTON_VPN.csprojAssemblyReference.cache
+C:\Users\kac44\source\repos\LEPTON_VPN\LEPTON_VPN\obj\Debug\LEPTON_VPN.Form1.resources
+C:\Users\kac44\source\repos\LEPTON_VPN\LEPTON_VPN\obj\Debug\LEPTON_VPN.Properties.Resources.resources
+C:\Users\kac44\source\repos\LEPTON_VPN\LEPTON_VPN\obj\Debug\LEPTON_VPN.csproj.GenerateResource.cache
+C:\Users\kac44\source\repos\LEPTON_VPN\LEPTON_VPN\obj\Debug\LEPTON_VPN.exe
+C:\Users\kac44\source\repos\LEPTON_VPN\LEPTON_VPN\obj\Debug\LEPTON_VPN.pdb
